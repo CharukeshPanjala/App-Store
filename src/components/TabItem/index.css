@@ -1,0 +1,22 @@
+.tab-item {
+  list-style: none;
+  border-style: solid;
+  border-width: 0px;
+}
+
+.tab-name {
+  color: #7b8794;
+  font-weight: 500;
+  font-family: Bree Serif;
+  font-size: 15px;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 20px;
+}
+
+.active {
+  border-bottom-width: 2px;
+  border-color: #2563eb;
+  color: #2563eb;
+}
